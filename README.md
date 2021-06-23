@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on SeoulTECH Univ.
+- 🌱 I’m currently learning VR/AR using Unity3D engine
+- 👀 I'm majoring in computer engineering.
+- 💖 I wanna be Unity Client Developer
+- 📫 How to reach me: sejj0126@naver.com , Instagram(@godsilver21)
+
 <!--
 **dmswl9898/dmswl9898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

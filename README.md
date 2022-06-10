@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on SeoulTECH Univ.
+- 🔭 I graduated from SeoulTECH Univ.
 - 🌱 I’m currently learning VR/AR using Unity3D engine
 - 👀 I'm majoring in computer engineering.
 - 💖 I wanna be Unity Client Developer

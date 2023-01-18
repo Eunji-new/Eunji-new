@@ -2,8 +2,8 @@
 
 - 🔭 I graduated from SeoulTECH Univ.
 - 🌱 I’m currently learning VR/AR using Unity3D engine
-- 👀 I'm majoring in computer engineering.
-- 💖 I wanna be Unity Client Developer
+- 👀 My major is computer engineering
+- 💖 I'm Unity Client Developer
 - 📫 How to reach me: sejj0126@naver.com , Instagram(@godsilver21)
 
 <!--

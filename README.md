@@ -30,7 +30,6 @@
 
 ## 📜 Contact
 - sejj0126@naver.com
-- Instagram(@godsilver21)
 
 
 <!--

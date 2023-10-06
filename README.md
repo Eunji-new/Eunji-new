@@ -31,7 +31,7 @@
 
  ### Others
 1. <b>Open API 활용 날씨 및 미세먼지 농도 표출</b> [Github](https://github.com/Eunji-new/Weather-Unityg)
-2.  <b>2023 CED 현대모비스 M.VISION HI 디스플레이 GUI 개발</b> [YouTube](https://www.youtube.com/watch?v=3olhJExaBLQ)
+2.  <b>2023 CES 현대모비스 M.VISION HI 디스플레이 GUI 개발</b> [YouTube](https://www.youtube.com/watch?v=3olhJExaBLQ)
 
 
 <!--

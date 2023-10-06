@@ -1,35 +1,43 @@
 # 👋Unity Client Developer 신은지 입니다.
 
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white">
+<img src="https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&logo=csharp&logoColor=#512BD4">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 
-## 📚 Education
-2017.03 ~ 2022.02 서울과학기술대학교 컴퓨터공학과 졸업
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
+<img src="https://img.shields.io/badge/clickup-7B68EE?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+
 
 ## 💻 Career & Experience
  - 2022.07 ~ 현재 **Anyractive** AI개발팀 사원
  - 2022.03 ~ 2022.05 **NAVER Z** Contents Dev팀 인턴
- - 2022.04 ~ 2022.02 **서울과학기술대학교 U-건설관리공학연구실 i3Lab** AR-Researcher
+ - 2022.04 ~ 2022.02 **서울과학기술대학교 U-건설관리공학연구실 i3Lab** 학부연구생 및 AR-Researcher
  - 2020.03 ~ 2020.08 **한국과학기술연구원(KIST)** 인공지능연구단 WRL 학부연구생(인턴)
 
+## 💖Projects
 
-## 📝 Certifications
- - 2021.11.24 **SQLD** 한국데이터산업진흥원
- - 2020.12.31 **정보처리기사** 한국산업인력공단
+### Game 
+1. 제페토 Road Dash [YouTube](https://www.youtube.com/watch?v=mFdKzHI3U8Y) 
+
+2. 미니 Match 3 게임 [Github](https://github.com/Eunji-new/MatchMergeGame)  [WebDemo](https://play.unity.com/mg/other/matchpuzzlegame)
+
+ ### AR
+1. ARCore Geospatial API 기반 글로벌 좌표 AR 앱(Unity as Library)
+
+2. BIM 활용 AR 안전 점검 장치(IOS - ARKit)
+
+ ### VR
+1. 가상 VR 쇼핑몰 [Github](https://github.com/capstone-design-metaAIshopping/MetaAIShopping) [YouTube](https://youtu.be/Pk5E6dELVeI?feature=shared)
+    
+2. VR 멀미 연구용 프로젝트 개발 
 
 
-## 🏆 Awards
-- 2021.12 **디지털 혁신공유대학사업 메타버스 경진대회** 인공지능 분야 금상(1위)
-- 2021.11 **한이음 ICT 공모전**    동상
-- 2021.11 **서울과학기술대학교 컴퓨터공학과 캡스톤디자인**    우수작품
-- 2021.11 **서울과학기술대학교 XR 콘텐츠 시나리오 경진대회**    최우수상(1위)
-- 2021.10 **서울과학기술대교 학생포트폴리오 경진대회**    우수상
-- 2020.09 **서울과학기술대학교 현장실습 체험수기 공모전**    장려상
-
-
-## 📜 Patents
-- 2021.10.18 **증강 현실 기반의 건설 현장 안전 점검 장치**, 10-2021-0138621
-
-## 📜 Contact
-- sejj0126@naver.com
+ ### Others
+- Open API 활용 날씨 및 미세먼지 농도 표출 [Github](https://github.com/Eunji-new/Weather-Unityg)
+- 2023 CED 현대모비스 M.VISION HI 디스플레이 GUI 개발 [YouTube](https://www.youtube.com/watch?v=3olhJExaBLQ)
 
 
 <!--

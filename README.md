@@ -19,7 +19,7 @@
 2. <b>미니 Match 3 게임</b> [Github](https://github.com/Eunji-new/MatchMergeGame)  [WebDemo](https://play.unity.com/mg/other/matchpuzzlegame)
 
  ### AR
-1. ARCore Geospatial API 기반 <b>글로벌 좌표 AR 앱</b>(Unity as Library)
+1. ARCore Geospatial API 기반 <b>글로벌 좌표 AR 앱</b>(Unity as Library) [Readme](https://github.com/Eunji-new/ARAD_UaaL) 
 
 2. <b>BIM 활용 AR 안전 점검 장치</b>(IOS - ARKit)
 

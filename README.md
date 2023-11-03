@@ -1,9 +1,10 @@
-# 👋Unity Client Developer 신은지 입니다.
+# 👋Unity3D Client Developer 신은지 입니다.
 
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white"><img src="https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&logo=csharp&logoColor=#512BD4"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"><img src="https://img.shields.io/badge/clickup-7B68EE?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
 
+<center><img src="https://github.com/Eunji-new/MatchMergeGame/assets/28985207/3580c0b2-a7f9-4e48-a7d5-0dda777c7665"/></center>
 
 ## 💻 Career & Experience
  - 2022.07 ~ 현재 **Anyractive** AI개발팀 사원
